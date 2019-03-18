@@ -179,12 +179,12 @@
 		5E85E07F223D58C700D5E986 /* Transfer */ = {
 			isa = PBXGroup;
 			children = (
-				5E9438F422401F5D00E6952B /* TransferEntity.swift */,
 				5E9438F922401F5D00E6952B /* Transfers.swift */,
+				5E9438F422401F5D00E6952B /* TransferEntity.swift */,
 				5E9438F622401F5D00E6952B /* TransfersCacheHandler.swift */,
 				5E9438F522401F5D00E6952B /* TransfersService.swift */,
-				5E9438F822401F5D00E6952B /* TransfersViewController.swift */,
 				5E9438F722401F5D00E6952B /* TransfersViewModel.swift */,
+				5E9438F822401F5D00E6952B /* TransfersViewController.swift */,
 			);
 			path = Transfer;
 			sourceTree = "<group>";
@@ -192,8 +192,8 @@
 		5E85E081223D598C00D5E986 /* Transfer Detail */ = {
 			isa = PBXGroup;
 			children = (
-				5E94390022401F6A00E6952B /* TransferDetailViewController.swift */,
 				5E94390122401F6A00E6952B /* TransferDetailViewModel.swift */,
+				5E94390022401F6A00E6952B /* TransferDetailViewController.swift */,
 			);
 			path = "Transfer Detail";
 			sourceTree = "<group>";

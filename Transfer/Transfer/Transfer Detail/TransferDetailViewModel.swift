@@ -72,7 +72,6 @@ class TransferDetail {
 /*
  * TransferDetailViewModel for TransferDetailViewController & TransferDetail Model
  * Create TransferDetail model from Transfer model data to be displayed on detailed screen
- * Provides tableView dataSource from TransferDetail model
  */
 class TransferDetailViewModel {
     
